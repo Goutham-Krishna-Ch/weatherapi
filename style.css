@@ -5,7 +5,7 @@
     
 }
 html{
-    background-image: url("../images/pic.jpg");
+    background-image: url("/images/pic.jpg");
 }
 h1{
     text-align: center;
